@@ -63,7 +63,7 @@
 
         raise_layer {
 // ------------------------------------------------------------------------------------------------------------
-// |BTCLR   | BT1  | BT2  |  BT3  |  BT4  |  BT5 |                |EP_TOG|      |       |      |       |       |       |
+// |BTCLR   | BT1  | BT2  |  BT3  |  BT4  |  BT5 |                |EP_ON |      |       |      |       |       |       |
 // |BTCLRALL| INS  | PSCR | GUI   |       |      |                | PGUP |      |   ^   |      |       |       |
 // |BTNXT   | ALT  | CTRL | SHIFT |       | CAPS |                | PGDN |   <- |   v   |  ->  |  DEL  | BKSPC |
 // |        | UNDO | CUT  | COPY  | PASTE |      |      |  |      |      |      |       |      |       |       |
